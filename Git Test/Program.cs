@@ -1,4 +1,4 @@
-//Test master change
+//Test new change
 
 var builder = WebApplication.CreateBuilder(args);
 
